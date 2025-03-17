@@ -28,7 +28,7 @@
                                 <li><img src="img/ico_xd.svg"/><div>Xd</div></li>
                                 <li><img src="img/ico_figma.svg"/><div>Figma</div></li>
                                 <li><img src="img/ico_zeplin.svg"/><div>Zeplin</div></li>
-                                <li><img src="img/ico_an.png"/><div>Animate</div></li>
+                                <li style="opacity: 30%;"><img src="img/ico_c4d.svg"/><div>준비중</div></li>
                             </ul>
                             <p>DESIGN</p>
                         </div>
